@@ -62,13 +62,13 @@ We can extract many valuable insights from this dataset. As this datset provides
 
 #### Exploratory Data Analysis (EDA)
 
-* How have salaries in the AI, ML, and Data fields changed from 2020 to 2023?
 * What are the most common job titles and employment types in the AI, ML, and Data fields?
 * How does experience level and employment type affect salary in the AI, ML, and Data fields?
+* How have salaries in the AI, ML, and Data fields changed from 2020 to 2023?
 * Are there any significant differences in salary trends between different industries or company sizes?
 * What is the impact of remote work on salary in the AI, ML, and Data fields?
 
-#### RFS and Heirarchical clustering
+#### Hierarchical clustering and RFECV
 
 * Can we group similar types of jobs based on their salaries and other features using clustering techniques?
 * What are the most important features in predicting salaries in the AI, ML, and Data fields?

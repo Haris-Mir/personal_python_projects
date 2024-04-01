@@ -1,0 +1,10 @@
+2024-03-16 02:30:36:  I want to buy a new cell phone.
+2024-03-16 02:30:59:  Yes, that's okay.
+2024-03-16 02:33:49:  I want to cancel my service.
+2024-03-16 02:34:05:  Yes, that's okay. Yes.
+2024-03-16 02:34:39:  to cancel my service
+2024-03-16 02:34:54:  No, it's not okay. No, no.
+2024-03-16 02:57:14:  I want to buy a new cell phone.
+2024-03-16 02:57:37:  Yes it is.
+2024-03-16 02:58:44:  I want to buy a new cell phone.
+2024-03-16 02:59:04:  Yes, that's okay. Yes.

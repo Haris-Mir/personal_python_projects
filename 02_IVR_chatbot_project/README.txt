@@ -1,17 +1,8 @@
-Part 2
+## Part 2 Task
 
-The Task
+medium blog: 
 
 Pick one of the interactions from Part 1 and implement it, using audio input and output on your computer. Instead of putting you into a telephone queue (or doing some other action), the program will just print out the queue/action it would have done. There is a step-by-step breakdown and marking rubric later in this document.
-
-Format
-
-Submit your git repository via github classroom. You can either submit a Jupyter notebook, or you can submit a program. Writing it as a program is probably more fun though. You don't need to include any models you have downloaded in the git repo if the program can download them from the internet.
-
-Use of ChatGPT
-
-Absolutely yes, do use any large language model you like to help you code this faster, and help you out when things don't work.
-
 
 Step-by-step breakdown
 
@@ -27,14 +18,3 @@ Play around with a few different (local) generative language models. This will i
 
 Now modify that program so that you can identify the intent that is being mentioned in the output. Maybe you will look for a keyword being used. You can see whether the model has a JSON mode. That might make it easier to process the model's output. Remember that these generative language models aren't always super-reliable, so don't stress out if you can't get something to work 100% of the time. 80% is good enough for this project. Also, don't stress out if it takes a long time to run. It's easier for debugging if you can make it faster (you could see if there's a streaming mode... maybe you can stop processing after a few tokens).
 
-Write a program that can do sentiment analysis on some text, using a pre-existing sentiment classffier model. Find one on Huggingface's hub or elsewhere.
-Now it's just a matter of stringing these things together into one big program:
-Play the greeting audio
-Record the request
-Transcribe it
-Check to see if it is very negative using your sentiment classifier
-Find out the intent
-Have an if statement (or equivalent) for each different intent, and play the appropriate audio.
-Record their confirmation
-Check to see if it is a rmative or negative.
-Print out the appropriate message.
